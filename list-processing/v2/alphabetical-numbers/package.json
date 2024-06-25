@@ -1,0 +1,19 @@
+{
+  "name": "alphabetical-numbers",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A module for lists of alphabetical numbers",
+  "main": "alphaNums.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "author": "Torrel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.5.1"
+  }
+}
