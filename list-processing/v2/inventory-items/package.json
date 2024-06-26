@@ -1,0 +1,15 @@
+{
+  "name": "inventory-items",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A module for finding transactions related to an inventory item",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Torrel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.5.2"
+  }
+}
